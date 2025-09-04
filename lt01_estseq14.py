@@ -1,3 +1,7 @@
+""""
+14. Receba 2 ângulos de um triângulo. Calcule e mostre o valor do 3º ângulo.
+"""
+
 angulo1 = float(input("Digite o primeiro angulo: "))
 angulo2 = float(input("Digite o segundo angulo: "))
 
