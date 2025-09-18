@@ -7,3 +7,4 @@ Venda Mensal Preço Atual Preço Novo
 >= 1000 >= 80 - 5%
 Obs.: para outras condições, preço novo será igual ao preço atual.
 """
+
